@@ -39,7 +39,8 @@ body {
 
     border-radius: 15px;
 
-    font-size: 38px;
+    font-size: 28px;
+    letter-spacing: 1px;
     overflow: hidden;
 }
 
@@ -75,17 +76,20 @@ button:active {
 }
 
 .operator {
-    background: #555;
+    background: #ff9500;
+    color: white;
 }
 
 .clear {
-    background: #777;
+    background: #d9534f;
+    color: white;
 }
 
 .equals {
-    background: #444;
+    background: #ff9500;
+    color: white;
 }
 
 .zero {
-    grid-column: span 3;
+    grid-column: span 2;
 }
