@@ -1,35 +1,76 @@
-# My First Project — Calculator 🧮
+# 🧮 Calculator
 
-This is my **first web development project**.
+A clean, fully functional calculator built from scratch using vanilla HTML, CSS, and JavaScript — no libraries, no tutorials, just pure code.
 
-I built this calculator while learning the basics of web development and JavaScript.
+![HTML](https://img.shields.io/badge/HTML-E34F26?style=flat&logo=html5&logoColor=white)
+![CSS](https://img.shields.io/badge/CSS-1572B6?style=flat&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
 
-## Features
+---
 
-* Addition
-* Subtraction
-* Multiplication
-* Division
-* Decimal numbers
-* Clear (AC) button
-* Clean and simple design
+## 🔴 Live Demo
+👉 **[Try it here](https://kunwar8485-png.github.io/calculator)**
 
-## Technologies Used
+---
 
-* HTML
-* CSS
-* JavaScript
+## ✨ Features
 
-## What I Learned
+- ➕ Addition, ➖ Subtraction, ✖️ Multiplication, ➗ Division
+- Decimal number support
+- AC (All Clear) button to reset
+- Responsive and clean UI
+- Works on both desktop and mobile
 
-While building this project, I learned:
+---
 
-* How HTML creates the structure of a webpage
-* How CSS styles a webpage
-* How JavaScript adds functionality
-* How buttons and click events work
-* How to use Git and GitHub to publish a project
+## 🛠️ Built With
 
-## Author
+| Technology | Purpose |
+|---|---|
+| HTML | Page structure & button layout |
+| CSS | Styling & layout |
+| JavaScript | Logic & interactivity |
 
-Kunwar
+---
+
+## 🚀 Run Locally
+
+```bash
+# Clone the repository
+git clone https://github.com/kunwar8485-png/calculator.git
+
+# Open in browser
+Just open index.html in any browser — no setup needed!
+```
+
+---
+
+## 📸 Screenshot
+
+> *(Add a screenshot here — drag an image into the README editor on GitHub)*
+
+---
+
+## 🧠 What I Learned
+
+This was my **first ever JavaScript project**, built without following any tutorial:
+
+- How to structure a webpage with HTML
+- Styling layouts using CSS (buttons, grid/flexbox)
+- Handling **click events** with JavaScript
+- Using **eval()** / custom logic to calculate expressions
+- How to push a project to GitHub
+
+---
+
+## 👤 Author
+
+**Kunwar**  
+🐙 GitHub: [@kunwar8485-png](https://github.com/kunwar8485-png)
+
+---
+
+## 📌 Part of my learning journey
+
+This is **Project #1** in my web development journey.  
+Next up → ✅ To-do List | 🧠 Quiz App | 🌤️ Weather App
